@@ -4,3 +4,4 @@ This repository contains the simple-interest.sh script used for the final projec
 
 ## Usage
 Run:
+Change
